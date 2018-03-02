@@ -1,8 +1,8 @@
 {
     "version":"1.0.0",
-    "model":"model1.moc",
+    "model":"model.moc",
     "textures":[
-          "textures/1 (10).png"
+          "textures/6.png"
 
     ],
     "layout":{
